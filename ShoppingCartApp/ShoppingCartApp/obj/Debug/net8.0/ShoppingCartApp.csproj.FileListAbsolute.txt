@@ -1,0 +1,14 @@
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.exe
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.deps.json
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.runtimeconfig.json
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\bin\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfoInputs.cache
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.AssemblyInfo.cs
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.dll
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\refint\ShoppingCartApp.dll
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.pdb
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ShoppingCartApp.genruntimeconfig.cache
+C:\Users\Naido\source\repos\ShoppingCartApp\ShoppingCartApp\obj\Debug\net8.0\ref\ShoppingCartApp.dll
